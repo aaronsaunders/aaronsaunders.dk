@@ -1,7 +1,24 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Example Blog"
-theme = "elephants"
+baseurl = "https://aaronsaunders.dk/"
+title = "Aarons's Blog"
+author = "Aaron Saunders"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-black-and-light-theme"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
 
 [params]
-    sitename = "Elephants"
+  sitename = "Aaron Saunders"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "About"
+    url  = "https://github.com/aaronsaunders"
+[[menu.main]]
+    name = "Projects"
+    url  = "https://github.com/aaronsaunders"
+[[menu.main]]
+    name = "CV"
+    url  = "https://github.com/aaronsaunders"
+
