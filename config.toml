@@ -6,6 +6,10 @@ paginate = 5
 
 copyright = "© Copyright notice"
 
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
 [params]
 	subtitle = "Personal Website and blog of Aaron Saunders"
 	disableDisqusTypes = ["page"]

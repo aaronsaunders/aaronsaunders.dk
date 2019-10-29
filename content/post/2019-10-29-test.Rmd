@@ -2,8 +2,7 @@
 title: "Test"
 author: "Aaron Saunders"
 date: '2019-10-29'
-tags: R
-disqus: no
+tags: ["R"]
 ---
 
 This is a test.
