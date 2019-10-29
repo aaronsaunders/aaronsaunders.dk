@@ -1,0 +1,23 @@
+---
+title: "Test"
+author: "Aaron Saunders"
+date: '2019-10-29'
+output:
+  markdown: default
+disqus: no
+tags: R
+---
+
+This is a test.
+
+Check out this lovely plot...
+
+```{r}
+library(ggplot2)
+
+ggplot(mpg, aes(displ, hwy, colour = class)) + 
+  geom_point()
+```
+
+
+More to come!

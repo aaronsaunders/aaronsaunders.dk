@@ -6,7 +6,7 @@ paginate = 5
 
 copyright = "© Copyright notice"
 
-pygmentsstyle = "vs"
+pygmentsstyle = "r"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
