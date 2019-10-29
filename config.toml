@@ -20,6 +20,9 @@ pygmentscodefencesguesssyntax = true
 	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
+	# Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
+  favicon = "icons/myfavicon.ico"
+
 [[menu.main]]
 name = "Home"
 url = "/"
