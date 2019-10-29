@@ -6,11 +6,6 @@ paginate = 5
 
 copyright = "© Copyright notice"
 
-pygmentsstyle = "vs"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-
 [params]
 	subtitle = "Personal Website and blog of Aaron Saunders"
 	disableDisqusTypes = ["page"]
@@ -21,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
 	# Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
-  favicon = "icons/myfavicon.ico"
+  favicon = "/icons/myfavicon.ico"
 
 [[menu.main]]
 name = "Home"
