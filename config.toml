@@ -1,4 +1,4 @@
-baseURL = "http://aaronsaunders.dk/"
+baseURL = "https://aaronsaunders.dk/"
 languageCode = "en-us"
 title = "Aaron's Blog"
 theme = "ezhil"
