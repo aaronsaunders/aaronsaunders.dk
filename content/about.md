@@ -4,7 +4,7 @@ date: 2019-10-29
 type: "page"
 ---
 
-<img src="/img/amsa-portrait-small.jpg" style="float:left" alt="Aaron Saunders" width="220"  class="headshot"/>
+<img src="/img/amsa-portrait-small.jpg" alt="Aaron Saunders" width="220"  class="headshot"/>
 
 <p>I am a microbiologist working at <a href= "https://www.baaa.dk/programmes/ap-degree/chemical-and-biotechnical-science/">Business Academy Aarhus</a> (<a href= "https://www.eaaa.dk/videregaende-uddannelser/erhvervsakademiuddannelse/laborant/">Erhvervsakademi Aarhus</a>). </p>
 
