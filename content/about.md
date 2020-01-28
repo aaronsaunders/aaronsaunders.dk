@@ -6,7 +6,9 @@ type: "page"
 
 <img src="/img/amsa-portrait-small.jpg" style="float:left" alt="Aaron Saunders" width="220"  class="headshot"/>
 
-<p>I am a microbiologist working with engineered systems. At <a href= "http://baaa.dk">Business Academy Aarhus</a> (<a href= "http://eaaa.dk">Erhvervsakademi Aarhus</a>). [Link to scientific publications](http://bit.ly/ams_googlescholar) </p>
+<p>I am a microbiologist working with engineered systems. At <a href= "http://baaa.dk">Business Academy Aarhus</a> (<a href= "http://eaaa.dk">Erhvervsakademi Aarhus</a>). </p>
+
+[Link to scientific publications](http://bit.ly/ams_googlescholar) 
 
 <p>I make applied research projects together with industry partners, eg. in the oil and gas, bioremediation and food industries, to apply molecular analysis to complement existing culture based methods and give out partners new insights into the their processes. The aim of these projects is to save money for the partners or give new solutions to their problems. Among the approaches used is to apply next-generation sequencing technologies and bioinformatics.</p>
 
