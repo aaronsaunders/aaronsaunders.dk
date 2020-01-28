@@ -45,12 +45,18 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/aaronsaunders"
+url = "http://bit.ly/38I6w6g"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "linkedin"
-url = "https://www.linkedin.com/in/aaronsaunders/"
+url = "http://bit.ly/37ERBKc"
+
+
+[[params.social]]
+name = "Twitter"
+icon = "Twitter"
+url = "http://bit.ly/1gGZ3Zd"
 
 [[params.social]]
 name = "RSS"
