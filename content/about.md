@@ -9,7 +9,7 @@ type: "page"
 <p>I am a microbiologist working at <a href= "https://www.baaa.dk/programmes/ap-degree/chemical-and-biotechnical-science/">Business Academy Aarhus</a> (<a href= "https://www.eaaa.dk/videregaende-uddannelser/erhvervsakademiuddannelse/laborant/">Erhvervsakademi Aarhus</a>). </p>
 
 - [Scientific publications on Google Scholar](http://bit.ly/ams_googlescholar)
-- [Scientific publications on PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Aaron%20M%20saunders)
+- [Scientific publications on PubMed](http://bit.ly/38GsXso)
 - [Public PGP encryption key](http://bit.ly/amspublicpgp)
 - [Github page](http://bit.ly/38I6w6g)
 - [Linkedin](http://bit.ly/37ERBKc)
