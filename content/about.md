@@ -8,11 +8,12 @@ type: "page"
 
 <p>I am a microbiologist working at <a href= "https://www.baaa.dk/programmes/ap-degree/chemical-and-biotechnical-science/">Business Academy Aarhus</a> (<a href= "https://www.eaaa.dk/videregaende-uddannelser/erhvervsakademiuddannelse/laborant/">Erhvervsakademi Aarhus</a>). </p>
 
-[Link to scientific publications](http://bit.ly/ams_googlescholar) 
-[Public PGP encryption key](http://bit.ly/amspublicpgp)
-[Github page](http://bit.ly/38I6w6g)
-[Linkedin](http://bit.ly/37ERBKc)
-[Twitter](http://bit.ly/1gGZ3Zd)
+- [Scientific publications on Google Scholar](http://bit.ly/ams_googlescholar)
+- [Scientific publications on PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Aaron%20M%20saunders)
+- [Public PGP encryption key](http://bit.ly/amspublicpgp)
+- [Github page](http://bit.ly/38I6w6g)
+- [Linkedin](http://bit.ly/37ERBKc)
+- [Twitter](http://bit.ly/1gGZ3Zd)
 
 <p>I make applied research projects together with industry partners, eg. in the oil and gas, bioremediation and food industries, to apply molecular analysis to complement existing culture based methods and give out partners new insights into the their processes. The aim of these projects is to save money for the partners or give new solutions to their problems. Among the approaches used is to apply next-generation sequencing technologies and bioinformatics.</p>
 
