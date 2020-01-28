@@ -1,6 +1,6 @@
 baseURL = "https://aaronsaunders.dk/"
 languageCode = "en-us"
-title = "Aaron's Blog"
+title = "Aaron Saunders"
 theme = "ezhil"
 paginate = 5
 
@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
-	subtitle = "Personal Website and blog of Aaron Saunders"
+	subtitle = "Personal Website and blog"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "auto" # "dark" or "auto"
